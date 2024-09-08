@@ -1,4 +1,6 @@
 # Project 3 - Processing Using Airflow and Spark
+![image](https://github.com/user-attachments/assets/c3ec9ed9-4300-4c0c-b5a3-65b87f0243ed)
+
 
 ## Deskripsi Proyek
 
